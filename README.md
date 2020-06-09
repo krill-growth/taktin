@@ -1,2 +1,4 @@
 # taktin
-a A/B Test implement.
+
+a A/B Test engine implement.  
+
